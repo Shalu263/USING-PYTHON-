@@ -24,8 +24,18 @@
 ###### Converted date columns
 ###### Removed unnecessary columns
 
-### Feature Engineering
+#### Feature Engineering
 ###### Created total_nights
 ###### Calculated lost_revenue
 ###### Created booking categories (e.g., lead time category)
-###### Identified family bookings
+###### Identified family bookings.
+
+#### EDA
+###### Calculated cancellation rate
+###### Used groupby() to analyze segments
+###### Used value_counts()
+###### Used crosstab()
+###### Compared cancellation by deposit type
+###### Compared cancellation by lead time
+###### Identified high-risk segments
+###### Calculated revenue loss
