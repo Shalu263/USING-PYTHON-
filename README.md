@@ -1,13 +1,13 @@
-### Project Overview:
+#### Project Overview:
 ###### This project analyzes hotel booking data to identify factors driving cancellations and estimate revenue loss. The goal is to reduce booking cancellations and improve overall revenue performance.
 
-### Objective:
+#### Objective:
 ###### To analyze booking patterns and identify high-risk segments in order to reduce cancellations and minimize revenue loss.
 
-### Tools Used:
+#### Tools Used:
 ###### Pandas 
 
-### Dataset Description:
+#### Dataset Description:
 ###### The dataset contains hotel booking records including:
 ###### Lead time
 ###### Market segment
@@ -18,7 +18,7 @@
 ###### Reservation status
 ###### Cancellation indicator
 
-### Data Cleaning:
+#### Data Cleaning:
 ###### Handled missing values
 ###### Corrected data types
 ###### Converted date columns
